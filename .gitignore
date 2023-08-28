@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,terraform,visualstudiocode,ansible
 
 devops/backend
+devops/*.tfvars
 *.code-workspace
 
 ### Ansible ###
